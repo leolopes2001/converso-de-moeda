@@ -1,0 +1,110 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    background: #E5E5E5;
+}
+
+h1{
+    display: block;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 18px;
+    color: #F4F4F4;
+    background: #9657A5;
+    height: 66px;
+    text-align: center;
+    padding-top: 23px;
+    padding-bottom: 25px;
+}
+h2{
+    display: block;
+    padding-left: 27px;
+    margin-top: 23px;
+    margin-bottom: 6px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+}
+select,input{
+    display: block;
+    background: #FFFFFF;
+    border: 1px solid #BBBBBB;
+    box-sizing: border-box;
+    border-radius: 4px;
+    width: 327px;
+    height: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+
+}
+button{
+    display: block;
+    width: 327px;
+    height: 48px;
+    background: #00ff6a;
+    border-radius: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 24px;
+    margin-bottom: 36px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 18px;
+    color: #F4F4F4;
+    text-align: center;
+    border: none;
+    cursor: pointer;
+}
+
+#part2{
+    display: block;
+    border: 1px solid #9657A5;
+    box-sizing: border-box;
+    border-radius: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 327px;
+    height: 276px;
+    margin-bottom: 32px;
+    text-align: center;
+}
+.img1{
+    display: block;
+    margin-top: 12px;
+    margin-bottom: 4px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img2{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.img3{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.last-paragraph{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 18px;
+    color: #777777;
+
+}
+#title-alignment{
+    width: 375px;
+    margin-left: auto;
+    margin-right: auto;
+}
